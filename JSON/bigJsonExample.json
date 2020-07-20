@@ -1,0 +1,1323 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - esp32 json",
+        "totalResults": "183000",
+        "searchTerms": "esp32 json",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "002757202520570705696:31tho05ghru"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - esp32 json",
+        "totalResults": "183000",
+        "searchTerms": "esp32 json",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "002757202520570705696:31tho05ghru"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.393224,
+    "formattedSearchTime": "0.39",
+    "totalResults": "183000",
+    "formattedTotalResults": "183,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Installing ESP32 in Arduino IDE (Windows, Mac OS X, Linux ...",
+      "htmlTitle": "Installing \u003cb\u003eESP32\u003c/b\u003e in Arduino IDE (Windows, Mac OS X, Linux ...",
+      "link": "https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/",
+      "displayLink": "randomnerdtutorials.com",
+      "snippet": "Installing ESP32 Add-on in Arduino IDE Windows, Mac OS X, Linux open. Enter \nhttps://dl.espressif.com/dl/package_esp32_index.json into the “Additional Board ...",
+      "htmlSnippet": "Installing \u003cb\u003eESP32\u003c/b\u003e Add-on in Arduino IDE Windows, Mac OS X, Linux open. Enter \u003cbr\u003e\nhttps://dl.espressif.com/dl/package_esp32_index.\u003cb\u003ejson\u003c/b\u003e into the “Additional Board&nbsp;...",
+      "cacheId": "boKzfNb6YjQJ",
+      "formattedUrl": "https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide- windows-instructions/",
+      "htmlFormattedUrl": "https://randomnerdtutorials.com/installing-the-\u003cb\u003eesp32\u003c/b\u003e-board-in-arduino-ide- windows-instructions/",
+      "pagemap": {
+        "hcard": [
+          {
+            "fn": "Duncan",
+            "nickname": "Duncan"
+          },
+          {
+            "url_text": "Rui Santos",
+            "fn": "Rui Santos",
+            "url": "https://randomnerdtutorials.com/"
+          },
+          {
+            "fn": "M.T.Mendis"
+          },
+          {
+            "url_text": "Rui Santos",
+            "fn": "Rui Santos",
+            "url": "https://randomnerdtutorials.com/"
+          },
+          {
+            "fn": "James Cullins"
+          },
+          {
+            "fn": "CobRce",
+            "nickname": "CobRce"
+          },
+          {
+            "fn": "James Cullins"
+          },
+          {
+            "url_text": "Rui Santos",
+            "fn": "Rui Santos",
+            "url": "https://randomnerdtutorials.com/"
+          },
+          {
+            "fn": "Ton",
+            "nickname": "Ton"
+          },
+          {
+            "url_text": "Rui Santos",
+            "fn": "Rui Santos",
+            "url": "https://randomnerdtutorials.com/"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRR8IXhuqcPtwbqZb6IAB1QQRNWD4Kw6cTOvUWWLqNSP7JGCqkNtfpES-X",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "person": [
+          {
+            "name": "Duncan"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "M.T.Mendis"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "James Cullins"
+          },
+          {
+            "name": "CobRce"
+          },
+          {
+            "name": "James Cullins"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Ton"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Stefan Ludwig"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Stefan"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "JDavis"
+          },
+          {
+            "name": "Karanja Mutahi"
+          },
+          {
+            "name": "Stefan Ludwig"
+          },
+          {
+            "name": "Mike Jupp"
+          },
+          {
+            "name": "pableitor"
+          },
+          {
+            "name": "peter"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Mckenzie Gibson"
+          },
+          {
+            "name": "Mckenzie Gibson"
+          },
+          {
+            "name": "Alan"
+          },
+          {
+            "name": "Duncan Amos"
+          },
+          {
+            "name": "Joel"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Ken McNabb"
+          },
+          {
+            "name": "Nomad"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Pim Kaethoven"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "George"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "tony"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Hotz"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Mr.Chawanwit"
+          },
+          {
+            "name": "Rui Santos"
+          },
+          {
+            "name": "Dzandaa"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Ray"
+          },
+          {
+            "name": "robert LIEVIN"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Suren"
+          },
+          {
+            "name": "Michael Neff"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Mckenzie Gibson"
+          },
+          {
+            "name": "Peter"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "John"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Stephen Mann"
+          },
+          {
+            "name": "Daniel Fernandes"
+          },
+          {
+            "name": "Duncan Amos"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "JOSHUA A/L JAMES ANDREW"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "BobbyMac99"
+          },
+          {
+            "name": "Joel"
+          },
+          {
+            "name": "Niekie"
+          },
+          {
+            "name": "BobbyMac99"
+          },
+          {
+            "name": "Niekie"
+          },
+          {
+            "name": "Rainer"
+          },
+          {
+            "name": "cyberdie"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "cyberdie"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "cyberdie"
+          },
+          {
+            "name": "moses"
+          },
+          {
+            "name": "Terry Drummond"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Sentekin Can"
+          },
+          {
+            "name": "Chidananda HM"
+          },
+          {
+            "name": "kostas"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "kostas"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "C Munque"
+          },
+          {
+            "name": "C Munque"
+          },
+          {
+            "name": "Sentekin Can"
+          },
+          {
+            "name": "Sentekin Can"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "joel"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "joel"
+          },
+          {
+            "name": "Alfred"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "Alfred"
+          },
+          {
+            "name": "Jonathan"
+          },
+          {
+            "name": "Sara Santos"
+          },
+          {
+            "name": "alex harijanto"
+          },
+          {
+            "name": "Sara Santos"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/Install-the-ESP32-Board-in-Arduino-IDE-in-less-than-1-minute-Windows-Mac-OS-X-and-Linux.jpg?fit=840%2C473&ssl=1",
+            "og:type": "article",
+            "article:published_time": "2019-07-05T04:00:58Z",
+            "twitter:card": "summary",
+            "twitter:title": "Installing ESP32 in Arduino IDE (Windows, Mac OS X, Linux) | Random Nerd Tutorials",
+            "og:site_name": "Random Nerd Tutorials",
+            "og:title": "Installing ESP32 in Arduino IDE (Windows, Mac OS X, Linux) | Random Nerd Tutorials",
+            "msapplication-tileimage": "https://i2.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/03/n-favicon-2018.png?fit=16%2C16&ssl=1",
+            "og:description": "Learn how to install the ESP32 board add-on in Arduino IDE in less than 1 minute. This guides works in any operating system: Windows PC, Mac OS X, and Linux.",
+            "twitter:image": "https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/Install-the-ESP32-Board-in-Arduino-IDE-in-less-than-1-minute-Windows-Mac-OS-X-and-Linux.jpg?fit=840%2C473&ssl=1",
+            "article:modified_time": "2019-07-05T11:15:18Z",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Learn how to install the ESP32 board add-on in Arduino IDE in less than 1 minute. This guides works in any operating system: Windows PC, Mac OS X, and Linux.",
+            "og:url": "https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/"
+          }
+        ],
+        "comment": [
+          {
+            "text": "Can you explain why Python and a whole load of command line stuff is required? It wasn’t necessary for the ESP8266, installing that into the Arduino IDE was just a case of entering an address...",
+            "datepublished": "2016-12-17T01:38:24+00:00"
+          },
+          {
+            "text": "Hi Duncan, At the moment the Arduino IDE requires Python to communicate with the ESP32. It’s not currently able to do upload scripts exclusively from the Arduino IDE, but it should work like...",
+            "datepublished": "2016-12-21T11:59:32+00:00"
+          },
+          {
+            "text": "Thank you very much. I learn something from you. Mendis. Reply",
+            "datepublished": "2016-12-17T11:46:33+00:00"
+          },
+          {
+            "text": "You’re welcome, Rui Reply",
+            "datepublished": "2016-12-21T11:56:28+00:00"
+          },
+          {
+            "text": "I keep getting the compile error below File “C:\\Users\\Engineering\\Documents\\Arduino-1.6.13\\hardware\\espressif\\esp32/tools/esptool.py”, line 183 print ‘%s’ % inst.CHIP_NAME ^ SyntaxError:...",
+            "datepublished": "2016-12-19T15:44:03+00:00"
+          },
+          {
+            "text": "That’s because it’s executing python3 which requires parenthesis for “print”, to solve this: – install python 2.7 (in c:\\python27 for example) – add the it’s directory (c:\\python27)...",
+            "datepublished": "2019-02-15T18:58:00+00:00"
+          },
+          {
+            "text": "Found my error, I had both 2.7 and 3.6 Python versions. I unloaded 3.6 and made sure 2.7 and in path. Thanks Reply",
+            "datepublished": "2016-12-19T16:58:33+00:00"
+          },
+          {
+            "text": "I’m glad you found the solution, thanks for sharing it with us! Rui Reply",
+            "datepublished": "2016-12-21T11:55:40+00:00"
+          },
+          {
+            "text": "Thanks for this interesting item, i made it working in the IDE. Now i have to wait for an ESP 32. Happy New Year and Merry Chrismas. Reply",
+            "datepublished": "2016-12-24T22:33:55+00:00"
+          },
+          {
+            "text": "You’re welcome, More tutorials with this board very soon. Rui Reply",
+            "datepublished": "2016-12-26T19:54:28+00:00"
+          },
+          {
+            "text": "Hi Rui, I’m not very familiar with Arduino IDE so far. But I have installed the ESP8266-board-definitions. I don’t remember the exact process. Your tutorial misses how to add the ESP32-board...",
+            "datepublished": "2016-12-29T22:03:34+00:00"
+          },
+          {
+            "text": "Hi Stefan, This post describes the exact process adding the ESP32 board to your Arduino IDE installation. Reply",
+            "datepublished": "2017-01-02T15:58:46+00:00"
+          },
+          {
+            "text": "Same thing with your link “The ESP32 is currently being integrated with the Arduino IDE just like it was done for the ESP8266, but not everything is working at the moment (see here).” linking...",
+            "datepublished": "2016-12-29T22:08:27+00:00"
+          },
+          {
+            "text": "I agree with you Stefan, the ESP32 is not as easy as the ESP8266 to integrate with the Arduino IDE, but if you follow this exact tutorial you should be able to prepare your Arduino IDE with...",
+            "datepublished": "2017-01-02T16:00:18+00:00"
+          },
+          {
+            "text": "Everything up to last get.py was smooth. On windows machine it seems to be missing a file named ‘requests’ jim@maximus MINGW64 /c/Program Files (x86)/Arduino/hardware/espressif/esp32/tools...",
+            "datepublished": "2017-02-22T02:37:30+00:00"
+          },
+          {
+            "text": "pip install requests Reply",
+            "datepublished": "2018-10-28T19:55:24+00:00"
+          },
+          {
+            "text": "Hi Rui, what are the steps that the arduino-IDE-developers have to take until the ESP32-support reaches the stage as described in the following: I’m not very familiar with the Arduino-IDE...",
+            "datepublished": "2017-03-10T14:05:12+00:00"
+          },
+          {
+            "text": "Fails with error: “C:\\\\Program Files (x86)\\\\Arduino\\\\hardware\\\\espressif\\\\esp32/tools/xtensa-esp32-elf/bin/xtensa-esp32-elf-g++”: file does not exist Reply",
+            "datepublished": "2017-04-14T09:58:39+00:00"
+          },
+          {
+            "text": "Follow the steps as Rui says , just run GET as admin in Windows , it worked for me. Reply",
+            "datepublished": "2018-04-14T09:51:22+00:00"
+          },
+          {
+            "text": "thanks ru very interested at the this time I’m using my phone?, a android s6 Samsung witch I use to switch my lid lighting on & off so very interested in this technology and as you know I...",
+            "datepublished": "2017-04-14T12:19:50+00:00"
+          },
+          {
+            "text": "Thanks for reading. You could apply to that project, but I don’t have any information on that specific requirement. Regards, Rui Reply",
+            "datepublished": "2017-04-16T18:02:07+00:00"
+          },
+          {
+            "text": "Hi Thanks for the information. i am having problems cloning Git Gui. Something to do with permissions. Any suggestions how I fix this or cam I copy the relevant files? Reply",
+            "datepublished": "2018-02-26T10:59:38+00:00"
+          },
+          {
+            "text": "After a bit of fairly random key presses I got everything (well the program you demonstrate) to work. thank you. The pleasure on success far out-ways the frustration when everything fails Reply",
+            "datepublished": "2018-02-27T10:49:52+00:00"
+          },
+          {
+            "text": "I got the espressif library put in the hardware directory for the Arduino, but the BLE directory is empty. Is it the same for the 8266, and/or where can I find it? Thanks Reply",
+            "datepublished": "2018-02-27T21:31:34+00:00"
+          },
+          {
+            "text": "The ESP8266 doesn’t have BLE (or Classic Bluetooth). Reply",
+            "datepublished": "2018-02-27T22:04:57+00:00"
+          },
+          {
+            "text": "I followed the instructions for Installing the ESP32 Board in Arduino IDE, but it doesn’t communicate with the board. The port option is grayed out and I can’t select the port to use. I...",
+            "datepublished": "2018-03-09T21:26:11+00:00"
+          },
+          {
+            "text": "Hi Joel, As we’ve discusses in the Facebook group, if your board doesn’t appear in your Arduino IDE it’s a problem with your drivers. I would uninstall the drivers for your ESP32 built-in...",
+            "datepublished": "2018-03-14T18:03:43+00:00"
+          },
+          {
+            "text": "OK Found a solution that is currently working, although I’m not sure yet if anything else broke implementing it. I found when running the GET.EXE it added another sub-directory /arduino-esp32...",
+            "datepublished": "2018-05-26T08:40:46+00:00"
+          },
+          {
+            "text": "You d’man, unless of course you are a girl, then you d’girl! I have had two of these in my parts box now since they came out, and never could get them running. I have been to dozens of...",
+            "datepublished": "2018-06-01T00:43:05+00:00"
+          },
+          {
+            "text": "Me (Rui Santos) I’m a guy. But, if Sara Santos answers a question (she’s a girl). I’m glad this tutorial worked out for you! Thanks for letting me know! Regards, Rui Reply",
+            "datepublished": "2018-06-11T16:42:42+00:00"
+          },
+          {
+            "text": "When I open the get.exe it opens a commandscreen and then it doesn’t do anything anymore. Do I just have to wait a very long time or did I do something wrong? Reply",
+            "datepublished": "2018-06-22T01:27:01+00:00"
+          },
+          {
+            "text": "After that, can you see the ESP32 boards available in the Arduino IDE after closing the get.exe file? Reply",
+            "datepublished": "2018-06-23T08:42:38+00:00"
+          },
+          {
+            "text": "I followed this excellent how-to to the end and everything appeared to be ok. Went into IDE and selected COM6 (the ESP chose that), I’m using the ESP module you used above. But when I try...",
+            "datepublished": "2018-07-18T15:55:15+00:00"
+          },
+          {
+            "text": "Hi George. When that happens, you need to hold-down the “BOOT” button in your ESP32 board while the code is uploading. After you see the “Connecting….” message in your Arduino IDE,...",
+            "datepublished": "2018-07-30T09:20:04+00:00"
+          },
+          {
+            "text": "Edit the “Sketchbook location” with forward slashes, so it looks as follows: C:/Users/ruisantos/Documents/Arduino how do i do that? sorry if it is a dumb question Reply",
+            "datepublished": "2018-07-31T16:36:48+00:00"
+          },
+          {
+            "text": "Simply replace it manually, if it looks like this: C:\\Users\\ruisantos\\Documents\\Arduino Remove those \\ and replace with / C:/Users/ruisantos/Documents/Arduino I hope that helps. Regards, Rui Reply",
+            "datepublished": "2018-08-04T16:17:51+00:00"
+          },
+          {
+            "text": "Thanks to your tutorial I finally got it working again – my Arduino IDE and the ESP32. Before I was really lost even I followed some other instructions in the Web. Your tutorials are so clearly...",
+            "datepublished": "2018-08-11T09:05:16+00:00"
+          },
+          {
+            "text": "Thanks. We’re glad it works. Many users struggle to get the Arduino IDE working with the ESP32. We try to make the instructions as clear as possible, so that anyone can get it working. Regards,...",
+            "datepublished": "2018-08-12T10:38:42+00:00"
+          },
+          {
+            "text": "Hi Rui, I have a problem A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header From doing that to you. What is it? Installed the library? Or the board. Reply",
+            "datepublished": "2018-09-27T04:04:18+00:00"
+          },
+          {
+            "text": "Make sure you hold down the BOOT button to force your ESP32 into flashing mode Reply",
+            "datepublished": "2018-09-27T10:03:12+00:00"
+          },
+          {
+            "text": "Hi, I’v got this board: banggood.com/Goouuu-ESP-32F-Development-Board-ESP32-Kit-Bluetooth-WiFi-IoT-Control-Module-For-Arduino-p-1357920.html?rmmds=search&ID=557197&cur_warehouse=CN I don’t...",
+            "datepublished": "2018-10-23T17:36:50+00:00"
+          },
+          {
+            "text": "Hi Dzandaa. I’ve never used that board. So, I don’t have any information about that. Maybe the best thing to do is trying to get some documentation or information from the vendor. I’m...",
+            "datepublished": "2018-10-24T11:19:40+00:00"
+          },
+          {
+            "text": "Rui, You also have to PUSH THE BOOT BUTTON while UPLOADING (at least on the DEVKIT V1) else you get an error: . “Failed to connect to ESP32: Timed out waiting for packet header” . Thanks! Reply",
+            "datepublished": "2018-10-31T06:21:47+00:00"
+          },
+          {
+            "text": "Bonjour. j’ai utiliser votre sketch WiFi Scan avec l’Esp32.la compilation dure 5 Minutes et le CPU de W7 tourne à 100%.pourquoi? à vous lire.salutations. vos cours m’interesse,existet-ils...",
+            "datepublished": "2018-11-12T16:16:27+00:00"
+          },
+          {
+            "text": "Hi Robert. I don’t understand french. I used the translator but didn’t understand your first question. Our ESP32 course is available both in video and eBook. When you buy the course, you...",
+            "datepublished": "2018-11-14T10:49:23+00:00"
+          },
+          {
+            "text": "..if anybody still have trouble uploading sketches to their WEMOS D1R1 or similar after CH341SER driver install & even with latest arduino ide with the ESP8266 PLATFORM downloaded connected...",
+            "datepublished": "2018-11-18T01:02:32+00:00"
+          },
+          {
+            "text": "Thank you this is an excellent guide and help. I only want to inform about a key item from my point of view: CP210x Driver Issue v10.1.4 on Windows 10 1809 : currently I did not found any solution...",
+            "datepublished": "2018-12-09T20:34:33+00:00"
+          },
+          {
+            "text": "Hi Michael. I’ve never faced that error and I haven’t find much information about that. Only the following link: https://www.silabs.com/community/interface/forum.topic.html/cp210x_driver_issue-...",
+            "datepublished": "2018-12-14T17:22:48+00:00"
+          },
+          {
+            "text": "Hi Rui, Thanks for the instructions. I was having difficulties installing but when I wrote exactly what I had done I realised my mistake. Wow Do I feel stupid. I suggest to all those having...",
+            "datepublished": "2018-12-28T13:39:47+00:00"
+          },
+          {
+            "text": "For those getting the error: “A fatal error occurred: Failed to connect to ESP32: Timed out waiting for packet header” I ran into the same issue and couldn’t resolve for the life of me....",
+            "datepublished": "2019-01-07T22:44:04+00:00"
+          },
+          {
+            "text": "Hi Peter. I’m sorry for that issue. Where did you order your “ESP32” boards? Reply",
+            "datepublished": "2019-01-07T23:23:04+00:00"
+          },
+          {
+            "text": "You can solve that issue by following this tutorial: https://randomnerdtutorials.com/solved-failed-to-connect-to-esp32-timed-out-waiting-for-packet-header/ Regards, Sara Reply",
+            "datepublished": "2019-02-16T11:34:14+00:00"
+          },
+          {
+            "text": "I finally got an ESP32. (Better late than never). I tried using this instructional to get it up and running. The board is a Node32s. I can see the port in the IDE; but when I try it upload...",
+            "datepublished": "2019-05-08T02:54:15+00:00"
+          },
+          {
+            "text": "Hi John. Please describe the instructions in this tutorial to be able to upload code: https://randomnerdtutorials.com/solved-failed-to-connect-to-esp32-timed-out-waiting-for-packet-header/...",
+            "datepublished": "2019-05-08T08:55:25+00:00"
+          },
+          {
+            "text": "My Boards Manager says that I have the “ESP32 by Expressif Systems” version 1.0.2 installed. But I don’t see the ESP32 *anything in the boards manager. Any tips? Do I need to go back...",
+            "datepublished": "2019-05-16T17:08:48+00:00"
+          },
+          {
+            "text": "Cumprimentos Sara e/ou Rui. Primeiramente, obrigado pelo tutorial; no entanto, tenho uma questão um tanto diferente: Qualquer sketch feito para a plataforma Arduino, é possível usá-lo com...",
+            "datepublished": "2019-05-26T17:23:36+00:00"
+          },
+          {
+            "text": "And for those of us (I suspect, the majority) who don’t read Portuguese??? Reply",
+            "datepublished": "2019-05-27T13:22:52+00:00"
+          },
+          {
+            "text": "Hi Daniel. Next time, try to post your questions in English so that all our readers can understand. An Arduino sketch can be used for the ESP32 with some changes. There are a few things that...",
+            "datepublished": "2019-05-27T18:10:33+00:00"
+          },
+          {
+            "text": "Hi I just read this excellent tutorial but I have a problem where in the board manager it says “error: can’t download https://dl.espressif.com/dl/package_esp32_index.json” and can’t...",
+            "datepublished": "2019-07-15T15:57:11+00:00"
+          },
+          {
+            "text": "Hi. That happened to me a few days ago. The solution was to unnistall Arduino IDE and install again. Then, install the ESP32 add-on. Regards, Sara Reply",
+            "datepublished": "2019-07-16T08:50:59+00:00"
+          },
+          {
+            "text": "Installing 1.8.9 resolved the problem. Make sure you put the new library source under your preferences, Additional Boards Manager box (shown above in blue, if you have a 8266 one already there...",
+            "datepublished": "2019-08-23T03:01:55+00:00"
+          },
+          {
+            "text": "Hi Sara and Rui, The sketch uploads but I keep getting this repeating message in the Serial Monitor: rst:0x10 (RTCWDT_RTC_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT) configsip: 0, SPIWP:0xee clk_drv:0x0...",
+            "datepublished": "2019-08-23T18:09:37+00:00"
+          },
+          {
+            "text": "Hi Sara, So I have the ESP32 DEVKIT V1 30 pin development board. I selected the ESP32 DEVKIT V1 board and when I plugged it into the PC COM28 popped up. So I selected it. “esptool.py v2.6...",
+            "datepublished": "2019-09-12T11:10:39+00:00"
+          },
+          {
+            "text": "If that fix doesn’t work – I always hold the rst and boot button together, then release the rst, wait 1 second, and release the boot – all after the Connecting prompt and as the ….____...",
+            "datepublished": "2019-09-13T09:36:33+00:00"
+          },
+          {
+            "text": "Nevermind. Hardware problem in my circuit. Thanks Reply",
+            "datepublished": "2019-09-12T13:02:51+00:00"
+          },
+          {
+            "text": "Hi Rui, Thanks for your great work and website, for me the best tutorials on Arduino, an ESP. Clear, and complete and working, you ebook too, the best I gave seen on the net and I’am in the...",
+            "datepublished": "2019-12-01T17:41:18+00:00"
+          },
+          {
+            "text": "Hi. i’ve followed all the steps and all went fine. BUT my AI Tinker ESP32-Cam doesn’t hace a ENABLE button!!! Only the RESET one! Some clue? Reply",
+            "datepublished": "2019-12-13T19:49:45+00:00"
+          },
+          {
+            "text": "Hi. It’s the same. Some boards have a label as “RST” and others as “EN”. So, it’s the same thing. Regards. Sara Reply",
+            "datepublished": "2019-12-14T11:57:37+00:00"
+          },
+          {
+            "text": "Hi Sara, ok but when i upload the sketch all goes fine ending with the text you can see bellow. The i push the reset button and the serial console shows: rst:0x1 (POWERON_RESET),boot:0x3 (DOWNLOAD_...",
+            "datepublished": "2019-12-14T19:56:09+00:00"
+          },
+          {
+            "text": "Hi. The “Leaving… Hard resetting via RTS pin…” message indicates that the code was successfully uploaded to your board. Just press the RST/EN button to restart the ESP32 and run the...",
+            "datepublished": "2019-12-16T09:49:40+00:00"
+          },
+          {
+            "text": "Thank you Sara!",
+            "datepublished": "2019-12-16T10:29:03+00:00"
+          },
+          {
+            "text": "Very useful website , very useful sharings thank you very much Reply",
+            "datepublished": "2020-02-06T13:52:31+00:00"
+          },
+          {
+            "text": "Ihave successfully installed the ESP32 to the arduino IDE. When uploading the test sketch, I get the following error: Arduino: 1.8.12 (Windows 10), Board: “ESP32 Dev Module, Disabled, Default...",
+            "datepublished": "2020-03-13T15:06:35+00:00"
+          },
+          {
+            "text": "Hi Terry. The port can be different. It is the port that shows in your Arduino IDE. Regards, Sara Reply",
+            "datepublished": "2020-03-15T16:47:29+00:00"
+          },
+          {
+            "text": "Try to change baud rate to 115200 from 921600. Reply",
+            "datepublished": "2020-05-17T23:11:29+00:00"
+          },
+          {
+            "text": "Thank you so much, i was able to connect Reply",
+            "datepublished": "2020-03-23T07:14:38+00:00"
+          },
+          {
+            "text": "Hi I try to install esp32 and esp8266 in arduino ide, i follow your instuctions, my laptop is a lenovo g580 with ubuntu 18.04 but i have a problem with esp32 when i try to run the wifi scan...",
+            "datepublished": "2020-03-25T13:02:33+00:00"
+          },
+          {
+            "text": "Hi. Take a look at this discussion and see if any of the suggestions solve your issue: https://www.esp32.com/viewtopic.php?t=7616#p33322 Regards, Sara Reply",
+            "datepublished": "2020-03-28T12:24:02+00:00"
+          },
+          {
+            "text": "Thank you Sara for your kind and quick responce. I was tried all these thinks but nothing was happen. The most odd fact is that before 3 months i set up two ESP8266 (WEMOS D1 & NODE MSU) and...",
+            "datepublished": "2020-03-29T19:19:31+00:00"
+          },
+          {
+            "text": "Hi. I’m sorry for that issue. I usually don’t work with ubuntu, so I’m not familiar with the problems when using Arduino IDE. Many times, new problems appear when one updates to a newest...",
+            "datepublished": "2020-04-03T09:50:30+00:00"
+          },
+          {
+            "text": "Two possibly related questions: 1 – I’m using a ESP32 WROOM and am unable to find it represented in Arduino IDE \u003e Menu Bar \u003e Tools \u003e Board listing. There are plenty of ESP32 boards there...",
+            "datepublished": "2020-03-31T18:24:41+00:00"
+          },
+          {
+            "text": "Answering my own question here: Solution was to change one line of my Arduino code: I’d had all my sketches showing Serial.begin(9600); and wasn’t able to find the equivalent baud rate...",
+            "datepublished": "2020-03-31T18:40:51+00:00"
+          },
+          {
+            "text": "C Munque, if baud rated does not much, you will see strange characters on the Serial Monitor. Today I received two ESP32 DEVKITV1 from Amazon and, like you , I tried all different boards. My...",
+            "datepublished": "2020-05-17T23:05:53+00:00"
+          },
+          {
+            "text": "Thank you very much for the tutorial. I had wrestled with upload error problem almost a day before I saw your troubleshooting section and pushing BOOT push button. It was a relief, an now I...",
+            "datepublished": "2020-05-17T22:56:18+00:00"
+          },
+          {
+            "text": "Great! Reply",
+            "datepublished": "2020-05-18T14:01:41+00:00"
+          },
+          {
+            "text": "Hello, I have problems including #include “soc / soc.h” // Disable brownour problems #include “soc / rtc_cntl_reg.h” // Disable brownour problems #include “driver / rtc_io.h” Could...",
+            "datepublished": "2020-05-21T01:40:22+00:00"
+          },
+          {
+            "text": "Hi. You don’t need to install anything. It comes by default when you install the ESP32 boards in your Arduino IDE. Regards, Sara Reply",
+            "datepublished": "2020-05-21T15:07:02+00:00"
+          },
+          {
+            "text": "Sorry my question was for another of your posts, precisely for the ESP-CAM. I’ll do it in the right place. Reply",
+            "datepublished": "2020-05-22T21:40:15+00:00"
+          },
+          {
+            "text": "Very useful website, i made everything like you indicated. until the final message shown: The “Leaving… Hard resetting via RTS pin…” then when i looked the COM monitor should show me...",
+            "datepublished": "2020-05-30T03:36:25+00:00"
+          },
+          {
+            "text": "Hi. Make sure you have the right baud rate selected on the Serial Monitor. On the bottom right corner, double-check that you have 115200 baud rate. Regards, Sara Reply",
+            "datepublished": "2020-05-30T09:17:04+00:00"
+          },
+          {
+            "text": "Thank you so much, that’s was the issue. I love this site. Reply",
+            "datepublished": "2020-05-30T15:44:59+00:00"
+          },
+          {
+            "text": "Very good, I purchased your ESP32 course and the only time I have had problems is due to me missing a vital point early on. All the information is there but you need to actually read and absorb...",
+            "datepublished": "2020-06-27T20:39:42+00:00"
+          },
+          {
+            "text": "Hi. Thank you for your feedback Jonathan. If you need any help following the course, you can use the forum on the RNTLAB: https://rntlab.com/forum/ (exclusive for members) Regards, Sara Reply",
+            "datepublished": "2020-06-29T09:50:31+00:00"
+          },
+          {
+            "text": "Hi, Thank you very much. I learn alot of ESP8266 and ESP32 from you. Reply",
+            "datepublished": "2020-07-16T03:23:37+00:00"
+          },
+          {
+            "text": "Great! Reply",
+            "datepublished": "2020-07-17T09:12:51+00:00"
+          }
+        ],
+        "creativework": [
+          {
+            "text": "There’s an add-on for the Arduino IDE that allows you to program the ESP32 using the Arduino IDE and its programming language. In this tutorial we’ll show you how to install the ESP32 board...",
+            "headline": "Installing the ESP32 Board in Arduino IDE (Windows, Mac OS X, Linux)"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i1.wp.com/randomnerdtutorials.com/wp-content/uploads/2018/08/Install-the-ESP32-Board-in-Arduino-IDE-in-less-than-1-minute-Windows-Mac-OS-X-and-Linux.jpg?fit=840%2C473&ssl=1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ESP32: Parsing JSON – techtutorialsx",
+      "htmlTitle": "\u003cb\u003eESP32\u003c/b\u003e: Parsing \u003cb\u003eJSON\u003c/b\u003e – techtutorialsx",
+      "link": "https://techtutorialsx.com/2017/04/26/esp32-parsing-json/",
+      "displayLink": "techtutorialsx.com",
+      "snippet": "Apr 26, 2017 ... The objective of this post is to explain how to parse JSON messages with the \nESP32 and the ArduinoJson library. Introduction The objective of ...",
+      "htmlSnippet": "Apr 26, 2017 \u003cb\u003e...\u003c/b\u003e The objective of this post is to explain how to parse \u003cb\u003eJSON\u003c/b\u003e messages with the \u003cbr\u003e\n\u003cb\u003eESP32\u003c/b\u003e and the ArduinoJson library. Introduction The objective of&nbsp;...",
+      "cacheId": "weaUN6lQOwQJ",
+      "formattedUrl": "https://techtutorialsx.com/2017/04/26/esp32-parsing-json/",
+      "htmlFormattedUrl": "https://techtutorialsx.com/2017/04/26/\u003cb\u003eesp32\u003c/b\u003e-parsing-\u003cb\u003ejson\u003c/b\u003e/",
+      "pagemap": {
+        "hcard": [
+          {
+            "fn": "Abraham",
+            "nickname": "Abraham",
+            "photo": "https://secure.gravatar.com/avatar/000e48ba3b4344475dfd488035dfe482?s=100&d=identicon&r=g"
+          },
+          {
+            "url_text": "antepher",
+            "fn": "antepher",
+            "nickname": "antepher",
+            "photo": "https://secure.gravatar.com/avatar/494ffcadecd049b4c55a3d71a81b0540?s=100&d=identicon&r=g",
+            "url": "http://techtutorialsx.wordpress.com/"
+          },
+          {
+            "fn": "Abraham",
+            "nickname": "Abraham",
+            "photo": "https://secure.gravatar.com/avatar/000e48ba3b4344475dfd488035dfe482?s=100&d=identicon&r=g"
+          },
+          {
+            "url_text": "antepher",
+            "fn": "antepher",
+            "nickname": "antepher",
+            "photo": "https://secure.gravatar.com/avatar/494ffcadecd049b4c55a3d71a81b0540?s=100&d=identicon&r=g",
+            "url": "http://techtutorialsx.wordpress.com/"
+          },
+          {
+            "fn": "Cristian Suarez",
+            "photo": "https://secure.gravatar.com/avatar/3803ee05954e4bade7ff3ffbfe843a41?s=100&d=identicon&r=g"
+          },
+          {
+            "url_text": "Mujamil",
+            "fn": "Mujamil",
+            "nickname": "Mujamil",
+            "photo": "https://secure.gravatar.com/avatar/aa3aa25a057291c18a846daeb2c817f4?s=100&d=identicon&r=g",
+            "url": "https://themaestro.in/"
+          }
+        ],
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkhAGaUez1AIn7vJ28dKEFkljEz6OQGXrM0h5L27Qsd37ckm7LxZp0GiDN",
+            "width": "386",
+            "height": "130"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://techtutorialsx.com/wp-content/uploads/2017/04/arduinojson-library-v5-9-0.png",
+            "og:type": "article",
+            "article:published_time": "2017-04-26T17:11:39+00:00",
+            "og:image:width": "1230",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "techtutorialsx",
+            "og:title": "ESP32: Parsing JSON",
+            "og:image:height": "416",
+            "msapplication-tileimage": "https://s0.wp.com/i/webclip.png",
+            "og:description": "The objective of this post is to explain how to parse JSON messages with the ESP32 and the ArduinoJson library.",
+            "twitter:image": "https://techtutorialsx.com/wp-content/uploads/2017/04/esp32-parsing-json.png?w=640",
+            "twitter:text:title": "ESP32: Parsing JSON",
+            "twitter:site": "@techtutorialsx",
+            "article:modified_time": "2019-03-14T12:07:56+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://techtutorialsx.com/2017/04/26/esp32-parsing-json/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://techtutorialsx.com/wp-content/uploads/2017/04/arduinojson-library-v5-9-0.png"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ESP32 GET JSON from API - YouTube",
+      "htmlTitle": "\u003cb\u003eESP32\u003c/b\u003e GET \u003cb\u003eJSON\u003c/b\u003e from API - YouTube",
+      "link": "https://www.youtube.com/watch?v=cgoCmYLeaSI",
+      "displayLink": "www.youtube.com",
+      "snippet": "Apr 19, 2019 ... ESP32 get json from api endpoint through wifi, today we will learn how to perform \na get request with an esp32 and receive JSON. ESP32 wifi: ...",
+      "htmlSnippet": "Apr 19, 2019 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eESP32\u003c/b\u003e get \u003cb\u003ejson\u003c/b\u003e from api endpoint through wifi, today we will learn how to perform \u003cbr\u003e\na get request with an \u003cb\u003eesp32\u003c/b\u003e and receive \u003cb\u003eJSON\u003c/b\u003e. \u003cb\u003eESP32\u003c/b\u003e wifi:&nbsp;...",
+      "cacheId": "G2WIe1jzwKMJ",
+      "formattedUrl": "https://www.youtube.com/watch?v=cgoCmYLeaSI",
+      "htmlFormattedUrl": "https://www.youtube.com/watch?v=cgoCmYLeaSI",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfV9xP2n4nAYuVyR2pmTKmc_cG0L6eNTyDGw_wk85NnNYHa1LkDN2tiDxf",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "1280",
+            "url": "https://i.ytimg.com/vi/cgoCmYLeaSI/maxresdefault.jpg",
+            "height": "720"
+          }
+        ],
+        "person": [
+          {
+            "name": "Asali",
+            "url": "http://www.youtube.com/channel/UCm5XVCrhSgQQQWqWWUlFrsQ"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i.ytimg.com/vi/cgoCmYLeaSI/maxresdefault.jpg",
+            "twitter:app:url:iphone": "vnd.youtube://www.youtube.com/watch?v=cgoCmYLeaSI&feature=applinks",
+            "theme-color": "#ff0000",
+            "og:image:width": "1280",
+            "twitter:card": "player",
+            "og:site_name": "YouTube",
+            "twitter:url": "https://www.youtube.com/watch?v=cgoCmYLeaSI",
+            "twitter:app:url:ipad": "vnd.youtube://www.youtube.com/watch?v=cgoCmYLeaSI&feature=applinks",
+            "al:android:package": "com.google.android.youtube",
+            "twitter:app:name:googleplay": "YouTube",
+            "title": "ESP32 GET JSON from API - ESP32 GET request from API receive JSON",
+            "al:ios:url": "vnd.youtube://www.youtube.com/watch?v=cgoCmYLeaSI&feature=applinks",
+            "twitter:app:id:iphone": "544007664",
+            "og:description": "ESP32 get json from api endpoint through wifi, today we will learn how to perform a get request with an esp32 and receive JSON. ESP32 wifi: https://youtu.be/...",
+            "al:ios:app_store_id": "544007664",
+            "twitter:image": "https://i.ytimg.com/vi/cgoCmYLeaSI/maxresdefault.jpg",
+            "twitter:site": "@youtube",
+            "og:video:type": "text/html",
+            "og:video:height": "720",
+            "og:video:url": "https://www.youtube.com/embed/cgoCmYLeaSI",
+            "og:type": "video.other",
+            "twitter:title": "ESP32 GET JSON from API - ESP32 GET request from API receive JSON",
+            "al:ios:app_name": "YouTube",
+            "og:title": "ESP32 GET JSON from API - ESP32 GET request from API receive JSON",
+            "og:image:height": "720",
+            "twitter:app:id:ipad": "544007664",
+            "al:web:url": "https://www.youtube.com/watch?v=cgoCmYLeaSI&feature=applinks",
+            "og:video:secure_url": "https://www.youtube.com/embed/cgoCmYLeaSI",
+            "og:video:tag": "esp32 get json",
+            "og:video:width": "1280",
+            "al:android:url": "vnd.youtube://www.youtube.com/watch?v=cgoCmYLeaSI&feature=applinks",
+            "fb:app_id": "87741124305",
+            "twitter:app:name:ipad": "YouTube",
+            "twitter:description": "ESP32 get json from api endpoint through wifi, today we will learn how to perform a get request with an esp32 and receive JSON. ESP32 wifi: https://youtu.be/...",
+            "og:url": "https://www.youtube.com/watch?v=cgoCmYLeaSI",
+            "al:android:app_name": "YouTube",
+            "twitter:app:name:iphone": "YouTube"
+          }
+        ],
+        "videoobject": [
+          {
+            "embedurl": "https://www.youtube.com/embed/cgoCmYLeaSI",
+            "playertype": "HTML5 Flash",
+            "isfamilyfriendly": "True",
+            "uploaddate": "2019-04-19",
+            "description": "ESP32 get json from api endpoint through wifi, today we will learn how to perform a get request with an esp32 and receive JSON. ESP32 wifi: https://youtu.be/...",
+            "videoid": "cgoCmYLeaSI",
+            "url": "https://www.youtube.com/watch?v=cgoCmYLeaSI",
+            "duration": "PT4M48S",
+            "unlisted": "False",
+            "name": "ESP32 GET JSON from API - ESP32 GET request from API receive JSON",
+            "paid": "False",
+            "width": "1280",
+            "regionsallowed": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH...",
+            "genre": "Education",
+            "interactioncount": "7035",
+            "channelid": "UCm5XVCrhSgQQQWqWWUlFrsQ",
+            "datepublished": "2019-04-19",
+            "thumbnailurl": "https://i.ytimg.com/vi/cgoCmYLeaSI/maxresdefault.jpg",
+            "height": "720"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/cgoCmYLeaSI/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Arduino ESP32",
+      "htmlTitle": "Arduino \u003cb\u003eESP32\u003c/b\u003e",
+      "link": "https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md",
+      "displayLink": "github.com",
+      "formattedUrl": "https://github.com/espressif/arduino-esp32/blob/.../boards_manager.md",
+      "htmlFormattedUrl": "https://github.com/espressif/arduino-\u003cb\u003eesp32\u003c/b\u003e/blob/.../boards_manager.md"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "IoT Solution with ESP32 Json and a Perfect Simple Platform ...",
+      "htmlTitle": "IoT Solution with \u003cb\u003eESP32 Json\u003c/b\u003e and a Perfect Simple Platform ...",
+      "link": "https://www.hackster.io/sparker/iot-solution-with-esp32-json-and-a-perfect-simple-platform-9e6f01",
+      "displayLink": "www.hackster.io",
+      "snippet": "Jun 14, 2019 ... IoT solution with ESP32 Json. The ESP32 in one of the fast growing IoT devices. \nwhich is used an 40nm chip, supporting Wifi and Bluetooth in ...",
+      "htmlSnippet": "Jun 14, 2019 \u003cb\u003e...\u003c/b\u003e IoT solution with \u003cb\u003eESP32 Json\u003c/b\u003e. The ESP32 in one of the fast growing IoT devices. \u003cbr\u003e\nwhich is used an 40nm chip, supporting Wifi and Bluetooth in&nbsp;...",
+      "cacheId": "4AMTQsVAaAkJ",
+      "formattedUrl": "https://www.hackster.io/.../iot-solution-with-esp32-json-and-a-perfect-simple- platform-9e6f01",
+      "htmlFormattedUrl": "https://www.hackster.io/.../iot-solution-with-\u003cb\u003eesp32\u003c/b\u003e-\u003cb\u003ejson\u003c/b\u003e-and-a-perfect-simple- platform-9e6f01",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSy1_eIvBJyZwYpBxtWYVyWw9Xx_kspscGkljShqNKty4DWJQnBiqUK6M5k",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "website": [
+          {
+            "name": "Hackster.io",
+            "url": "https://www.hackster.io"
+          }
+        ],
+        "imageobject": [
+          {
+            "width": "900",
+            "url": "https://hackster.imgix.net/uploads/attachments/911419/iot-solution-with-esp32-json-and-a-perfect-simple-platform-hackster-digispark_pE0QZYGr0G.jpg?auto=compress&w=900&h=675&fit=min&fm=jpg",
+            "height": "675"
+          }
+        ],
+        "person": [
+          {
+            "name": "Arvand Tabatabaie"
+          }
+        ],
+        "interactioncounter": [
+          {
+            "userinteractioncount": "2242",
+            "interactiontype": "http://schema.org/ViewAction"
+          },
+          {
+            "userinteractioncount": "10",
+            "interactiontype": "http://schema.org/LikeAction"
+          },
+          {
+            "userinteractioncount": "2,320",
+            "interactiontype": "http://schema.org/ViewAction"
+          }
+        ],
+        "metatags": [
+          {
+            "api-uri": "api.hackster.io",
+            "pagetype": "projects#show",
+            "og:image": "https://hackster.imgix.net/uploads/attachments/911419/iot-solution-with-esp32-json-and-a-perfect-simple-platform-hackster-digispark_pE0QZYGr0G.jpg?auto=compress%2Cformat&w=600&h=450&fit=min",
+            "og:image:width": "600",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#1cacf7",
+            "og:site_name": "Hackster.io",
+            "apple-mobile-web-app-title": "Hackster",
+            "msapplication-tileimage": "https://prod.hackster-cdn.online/assets/favicons/mstile-144x144-ea13b97589a22e74f5c44fe59a9dd083501c21aa514c4c9d742135ed8a818645.png?v=zXX3Bm3lo3",
+            "og:description": "Platforms are the 3rd part of an IoT solution system. I recently found a new platform, which is very simple and easy to use. Ubeac can help. By Arvand Tabatabaie.",
+            "twitter:image": "https://hackster.imgix.net/uploads/attachments/911419/iot-solution-with-esp32-json-and-a-perfect-simple-platform-hackster-digispark_pE0QZYGr0G.jpg?auto=compress%2Cformat&w=600&h=450&fit=min",
+            "twitter:player": "https://www.hackster.io/sparker/iot-solution-with-esp32-json-and-a-perfect-simple-platform-9e6f01/embed",
+            "twitter:player:height": "450",
+            "twitter:site": "@hacksterio",
+            "msapplication-tilecolor": "#1cacf7",
+            "application-name": "Hackster",
+            "og:type": "article",
+            "twitter:title": "IoT Solution with ESP32 Json and a Perfect Simple Platform",
+            "twitter:domain": "www.hackster.io",
+            "og:title": "IoT Solution with ESP32 Json and a Perfect Simple Platform",
+            "og:image:height": "450",
+            "fb:app_id": "543757942384158",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:headline": "IoT Solution with ESP32 Json and a Perfect Simple Platform",
+            "twitter:description": "Platforms are the 3rd part of an IoT solution system. I recently found a new platform, which is very simple and easy to use. Ubeac can help.",
+            "og:url": "https://www.hackster.io/sparker/iot-solution-with-esp32-json-and-a-perfect-simple-platform-9e6f01",
+            "twitter:player:width": "600"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://hackster.imgix.net/uploads/attachments/911419/iot-solution-with-esp32-json-and-a-perfect-simple-platform-hackster-digispark_pE0QZYGr0G.jpg?auto=compress%2Cformat&w=600&h=450&fit=min"
+          }
+        ],
+        "article": [
+          {
+            "articlebody": "Things used in this project Hardware componentsNodeMcu ESP32×1Software apps and online servicesuBeac IoT Platform ubeacStory IoT solutions are growing very very fast. The platforms and IoT...",
+            "keywords": "embedded,esp,internet of things,json",
+            "datemodified": "2019-06-18T19:51:05Z",
+            "name": "IoT Solution with ESP32 Json and a Perfect Simple Platform",
+            "description": "Platforms are the 3rd part of an IoT solution system. I recently found a new platform, which is very simple and easy to use. Ubeac can help.",
+            "text": "IoT solutions are growing very very fast. The platforms and IoT Hardware devices such as embedded systems, which are revolution to the hardware and electronics. many of users ask me which one...",
+            "headline": "IoT Solution with ESP32 Json and a Perfect Simple Platform",
+            "datepublished": "2019-06-14T08:30:13Z",
+            "mainentityofpage": "https://www.hackster.io/sparker/iot-solution-with-esp32-json-and-a-perfect-simple-platform-9e6f01"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Example of JSON REST API on ESP32 | by Raphael Pralat | Medium",
+      "htmlTitle": "Example of \u003cb\u003eJSON\u003c/b\u003e REST API on \u003cb\u003eESP32\u003c/b\u003e | by Raphael Pralat | Medium",
+      "link": "https://medium.com/@raphaelpralat/example-of-json-rest-api-for-esp32-4a5f64774a05",
+      "displayLink": "medium.com",
+      "snippet": "Apr 1, 2020 ... JSON is a good standard for data exchange. It can be useful to dialog with an \nESP32 calling it with a JSON API, and getting its responses in ...",
+      "htmlSnippet": "Apr 1, 2020 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eJSON\u003c/b\u003e is a good standard for data exchange. It can be useful to dialog with an \u003cbr\u003e\n\u003cb\u003eESP32\u003c/b\u003e calling it with a \u003cb\u003eJSON\u003c/b\u003e API, and getting its responses in&nbsp;...",
+      "cacheId": "zQCMH-W0Uz4J",
+      "formattedUrl": "https://medium.com/.../example-of-json-rest-api-for-esp32-4a5f64774a05",
+      "htmlFormattedUrl": "https://medium.com/.../example-of-\u003cb\u003ejson\u003c/b\u003e-rest-api-for-\u003cb\u003eesp32\u003c/b\u003e-4a5f64774a05",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvFtT8BLiX7zvYIxa8w9TRF3QM5WxW8vgzfyjN970CRsyhP-yTO5SxjUk",
+            "width": "406",
+            "height": "124"
+          }
+        ],
+        "metatags": [
+          {
+            "twitter:app:url:iphone": "medium://p/4a5f64774a05",
+            "og:image": "https://miro.medium.com/max/1200/1*23AvNONOY3Hel1UsJUvv3Q.png",
+            "theme-color": "#000000",
+            "article:published_time": "2020-04-02T19:35:27.040Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Medium",
+            "al:android:package": "com.medium.reader",
+            "twitter:app:id:iphone": "828256236",
+            "title": "Example of JSON REST API on ESP32 | by Raphael Pralat | Medium",
+            "al:ios:url": "medium://p/4a5f64774a05",
+            "og:description": "JSON is a good standard for data exchange. It can be useful to dialog with an ESP32 calling it with a JSON API, and getting its responses…",
+            "al:ios:app_store_id": "828256236",
+            "twitter:site": "@Medium",
+            "og:type": "article",
+            "twitter:title": "Example of JSON REST API for ESP32",
+            "al:ios:app_name": "Medium",
+            "parsely-post-id": "4a5f64774a05",
+            "author": "Raphael Pralat",
+            "og:title": "Example of JSON REST API for ESP32",
+            "al:web:url": "https://medium.com/@raphaelpralat/example-of-json-rest-api-for-esp32-4a5f64774a05",
+            "article:author": "https://medium.com/@raphaelpralat",
+            "twitter:image:src": "https://miro.medium.com/max/1200/1*23AvNONOY3Hel1UsJUvv3Q.png",
+            "al:android:url": "medium://p/4a5f64774a05",
+            "referrer": "unsafe-url",
+            "fb:app_id": "542599432471018",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1",
+            "twitter:description": "JSON is a good standard for data exchange. It can be useful to dialog with an ESP32 calling it with a JSON API, and getting its responses…",
+            "og:url": "https://medium.com/@raphaelpralat/example-of-json-rest-api-for-esp32-4a5f64774a05",
+            "twitter:app:name:iphone": "Medium",
+            "al:android:app_name": "Medium"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://miro.medium.com/max/1200/1*23AvNONOY3Hel1UsJUvv3Q.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Three tutorials for ESP8266 and ESP32 | ArduinoJson",
+      "htmlTitle": "Three tutorials for ESP8266 and \u003cb\u003eESP32\u003c/b\u003e | ArduinoJson",
+      "link": "https://arduinojson.org/news/2018/09/24/three-tutorials/",
+      "displayLink": "arduinojson.org",
+      "snippet": "Sep 24, 2018 ... ESP8266: Parsing JSON · ESP32: Parsing JSON · ESP8266: Encoding JSON \nmessages. He wrote these tutorials some while ago, but they are ...",
+      "htmlSnippet": "Sep 24, 2018 \u003cb\u003e...\u003c/b\u003e ESP8266: Parsing \u003cb\u003eJSON\u003c/b\u003e &middot; \u003cb\u003eESP32\u003c/b\u003e: Parsing \u003cb\u003eJSON\u003c/b\u003e &middot; ESP8266: Encoding \u003cb\u003eJSON\u003c/b\u003e \u003cbr\u003e\nmessages. He wrote these tutorials some while ago, but they are&nbsp;...",
+      "cacheId": "LR0px5RUddoJ",
+      "formattedUrl": "https://arduinojson.org/news/2018/09/24/three-tutorials/",
+      "htmlFormattedUrl": "https://arduino\u003cb\u003ejson\u003c/b\u003e.org/news/2018/09/24/three-tutorials/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwS78k6YCHdBRTRNmqBj6FA-FWlY1KAWoHAxSvu65E9tZXqudyYuAB",
+            "width": "100",
+            "height": "100"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://arduinojson.org/images/2018/09/antepher.png",
+            "og:type": "article",
+            "article:published_time": "2018-09-24T00:00:00+00:00",
+            "og:site_name": "ArduinoJson",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "author": "BenoitBlanchon",
+            "og:title": "Three tutorials for ESP8266 and ESP32",
+            "og:locale": "en_US",
+            "og:url": "https://arduinojson.org/news/2018/09/24/three-tutorials/",
+            "og:description": "Here are three great tutorials from techtutorialsx.com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://arduinojson.org/images/2018/09/antepher.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ESP32 ArduinoJSON: Printing prettified JSON string",
+      "htmlTitle": "\u003cb\u003eESP32\u003c/b\u003e ArduinoJSON: Printing prettified \u003cb\u003eJSON\u003c/b\u003e string",
+      "link": "https://www.dfrobot.com/blog-1282.html",
+      "displayLink": "www.dfrobot.com",
+      "snippet": "Jun 10, 2019 ... In this ESP32 tutorial we will check how to print a JSON string in a prettified \nformat, which makes it easier for a human to read.",
+      "htmlSnippet": "Jun 10, 2019 \u003cb\u003e...\u003c/b\u003e In this \u003cb\u003eESP32\u003c/b\u003e tutorial we will check how to print a \u003cb\u003eJSON\u003c/b\u003e string in a prettified \u003cbr\u003e\nformat, which makes it easier for a human to read.",
+      "cacheId": "cQSVOwhRzAgJ",
+      "formattedUrl": "https://www.dfrobot.com/blog-1282.html",
+      "htmlFormattedUrl": "https://www.dfrobot.com/blog-1282.html",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ESP8266: Parsing JSON : 4 Steps - Instructables",
+      "htmlTitle": "ESP8266: Parsing \u003cb\u003eJSON\u003c/b\u003e : 4 Steps - Instructables",
+      "link": "https://www.instructables.com/id/ESP8266-Parsing-JSON/",
+      "displayLink": "www.instructables.com",
+      "snippet": "In this instructable, we will be using the ArduinoJson library for the ESP8266 to \nhelp us parse JSON data and extract values based on keys. The ArduinoJson ...",
+      "htmlSnippet": "In this instructable, we will be using the ArduinoJson library for the ESP8266 to \u003cbr\u003e\nhelp us parse \u003cb\u003eJSON\u003c/b\u003e data and extract values based on keys. The ArduinoJson&nbsp;...",
+      "cacheId": "WMXFIaPFPvYJ",
+      "formattedUrl": "https://www.instructables.com/id/ESP8266-Parsing-JSON/",
+      "htmlFormattedUrl": "https://www.instructables.com/id/ESP8266-Parsing-\u003cb\u003eJSON\u003c/b\u003e/",
+      "pagemap": {
+        "thumbnail": [
+          {
+            "src": "https://cdn.instructables.com/FXL/MKZN/JB6UE2H8/FXLMKZNJB6UE2H8.LARGE.jpg"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cdn.instructables.com/FXL/MKZN/JB6UE2H8/FXLMKZNJB6UE2H8.LARGE.jpg",
+            "og:type": "article",
+            "og:image:width": "2089",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "ESP8266: Parsing JSON",
+            "thumbnail": "https://cdn.instructables.com/FXL/MKZN/JB6UE2H8/FXLMKZNJB6UE2H8.LARGE.jpg",
+            "og:site_name": "Instructables",
+            "og:title": "ESP8266: Parsing JSON",
+            "og:image:height": "1740",
+            "channel": "electronics",
+            "og:description": "ESP8266: Parsing JSON: As promised in my  previous instructable, I will be covering more about the ArduinoJson library in detail, in this instructable. JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans to read and write, ...",
+            "twitter:image": "https://cdn.instructables.com/FXL/MKZN/JB6UE2H8/FXLMKZNJB6UE2H8.LARGE.jpg?fit=bounds&height=620&width=620",
+            "fb:app_id": "140028286058792",
+            "twitter:site": "@instructables",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:url": "https://www.instructables.com/id/ESP8266-Parsing-JSON/",
+            "category": "circuits"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.instructables.com/FXL/MKZN/JB6UE2H8/FXLMKZNJB6UE2H8.LARGE.jpg",
+            "width": "246",
+            "type": "1",
+            "height": "205"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "How to post JSON data to a HTTP server endpoint from your ESP32 ...",
+      "htmlTitle": "How to post \u003cb\u003eJSON\u003c/b\u003e data to a HTTP server endpoint from your \u003cb\u003eESP32\u003c/b\u003e ...",
+      "link": "https://www.techcoil.com/blog/how-to-post-json-data-to-a-http-server-endpoint-from-your-esp32-development-board-with-arduinojson/",
+      "displayLink": "www.techcoil.com",
+      "snippet": "Jan 8, 2020 ... When sending data from your ESP32 development board, you may choose to \nsend the data in JSON. In such a situation, you can consider ...",
+      "htmlSnippet": "Jan 8, 2020 \u003cb\u003e...\u003c/b\u003e When sending data from your \u003cb\u003eESP32\u003c/b\u003e development board, you may choose to \u003cbr\u003e\nsend the data in \u003cb\u003eJSON\u003c/b\u003e. In such a situation, you can consider&nbsp;...",
+      "cacheId": "YTVt1YSaJ9YJ",
+      "formattedUrl": "https://www.techcoil.com/.../how-to-post-json-data-to-a-http-server-endpoint- from-your-esp32-development-board-with-arduinojson/",
+      "htmlFormattedUrl": "https://www.techcoil.com/.../how-to-post-\u003cb\u003ejson\u003c/b\u003e-data-to-a-http-server-endpoint- from-your-\u003cb\u003eesp32\u003c/b\u003e-development-board-with-arduino\u003cb\u003ejson\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqgHPKzo2_gqtYAxD60B0eRzVeFetuREbOFlifK6PlqfLHMS5q3OPOO4hm",
+            "width": "259",
+            "height": "194"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.techcoil.com/blog/wp-content/uploads/Espressif-ESP32-WROOM-32D-development-board-connected-to-USB.jpg",
+            "og:type": "article",
+            "article:published_time": "2020-01-08T14:50:31+00:00",
+            "og:image:width": "800",
+            "twitter:card": "summary",
+            "og:site_name": "Techcoil Blog",
+            "og:title": "How to post JSON data to a HTTP server endpoint from your ESP32 development board with ArduinoJson - Techcoil Blog",
+            "og:image:height": "600",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "og:description": "When sending data from your ESP32 development board, you may choose to send the data in JSON.  In such a situation, you can consider using ArduinoJson to help you construct the JSON data.  Given that, let us look at how we can post JSON data to a HTTP server endpoint from a ESP32 development board with ArduinoJson.",
+            "twitter:creator": "@techcoil_com",
+            "article:publisher": "https://www.facebook.com/Techcoil/",
+            "twitter:site": "@techcoil_com",
+            "article:modified_time": "2020-05-12T06:12:04+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://www.techcoil.com/blog/how-to-post-json-data-to-a-http-server-endpoint-from-your-esp32-development-board-with-arduinojson/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.techcoil.com/blog/wp-content/uploads/Espressif-ESP32-WROOM-32D-development-board-connected-to-USB.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
